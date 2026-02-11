@@ -3,7 +3,8 @@ from Scientific_Calculator.advanced_operations import (
     cube_root,
     log_base10,
     factorial,
-    sin_deg
+    sin_deg,
+    power
 )
 import math
 
