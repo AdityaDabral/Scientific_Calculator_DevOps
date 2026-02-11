@@ -11,7 +11,7 @@ def cube_root(x):
     return x ** (1/3)
 
 def power(a, b):
-    return a ** b
+    return a * b
 
 
 # Logarithms

@@ -11,6 +11,9 @@ import math
 def test_square_root():
     assert square_root(16) == 4
 
+def test_power():
+    assert power(2,8) == 256
+
 
 def test_cube_root():
     assert cube_root(27) == 3
